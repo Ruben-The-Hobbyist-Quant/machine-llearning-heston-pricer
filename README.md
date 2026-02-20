@@ -114,7 +114,7 @@ This repository accompanies the Master’s thesis:
 **“Heston Model Calibration with Machine Learning for Reverse Convertible Pricing”**  
 Ruben Obadia — Université Paris 1 Panthéon-Sorbonne  
 
-📄 [Read the full thesis (PDF)](docs/Obadia_Ruben_Heston_ML_RC_Thesis.pdf)
+📄 [Read the full thesis (PDF)](docs/Mémoire_M2_FMGR-9.pdf)
 
 ---
 
